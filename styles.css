@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+}
+
+#container{
+    text-align: center;
+}
+
+button{
+    border-radius: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 150px;
+    height: 30px;
+    background-color: #829399;
+    color: #E8FCC2;
+}
+
+h2 {
+    text-align: center;
+    padding: 10px;
+    border: 2px #545F66 dashed;
+    color: #545F66;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
